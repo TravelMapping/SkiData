@@ -1,11 +1,11 @@
 systemName;region;route;banner;abbrev;city;root;altRouteNames
 roymtn;NY;RoyMtnGlaWen;;;Royal Mountain - Gladed Wench;ny.roymtnglawen;
-roymtn;NY;RoyMtnGlaWenMidExit;;;Royal Mountain - Gladed Wench Mid Exit;ny.roymtngwme;
+roymtn;NY;RoyMtnGWME;;;Royal Mountain - Gladed Wench Mid Exit;ny.roymtngwme;
 roymtn;NY;RoyMtnRoy;;;Royal Mountain - Royal;ny.roymtnroy;
 roymtn;NY;RoyMtnWilWay;;;Royal Mountain - Wilbury Way;ny.roymtnwilway;
 roymtn;NY;RoyMtnCha;;;Royal Mountain - Challenge;ny.roymtncha;
 roymtn;NY;RoyMtnChaAcc;;;Royal Mountain - Challenge Access;ny.roymtnchaacc;
-roymtn;NY;RoyMtnDukeChaConn;;;Royal Mountain - Duke/Challenge Connector;ny.roymtndcconn;
+roymtn;NY;RoyMtnDCConn;;;Royal Mountain - Duke/Challenge Connector;ny.roymtndcconn;
 roymtn;NY;RoyMtnDuke;;;Royal Mountain - Duke;ny.roymtnduke;
 roymtn;NY;RoyMtnDocsDrop;;;Royal Mountain - Doc's Drop;ny.roymtndocsdrop;
 roymtn;NY;RoyMtnQue;;;Royal Mountain - Queen;ny.roymtnque;
