@@ -1,6 +1,6 @@
 systemName;region;route;banner;abbrev;city;root;altRouteNames
-roymou;NY;RoyMouRoy;;;Royal Mountain - Royal;ny.roymouroy;
-roymou;NY;RoyMouWilWay;;;Royal Mountain - Wilbury Way;ny.roymouwilway;
-roymou;NY;RoyMouKni;;;Royal Mountain - Knight;ny.roymoukni;
-roymou;NY;RoyMouHadLift;;;Royal Mountain - Hadley Lift;ny.roymouhadlift;
-roymou;NY;RoyMouKenLift;;;Royal Mountain - Kenedy Lift;ny.roymoukenlift;
+roymtn;NY;RoyMtnRoy;;;Royal Mountain - Royal;ny.roymtnroy;
+roymtn;NY;RoyMtnWilWay;;;Royal Mountain - Wilbury Way;ny.roymtnwilway;
+roymtn;NY;RoyMtnKni;;;Royal Mountain - Knight;ny.roymtnkni;
+roymtn;NY;RoyMtnHadLift;;;Royal Mountain - Hadley Lift;ny.roymtnhadlift;
+roymtn;NY;RoyMtnKenLift;;;Royal Mountain - Kenedy Lift;ny.roymtnkenlift;
