@@ -1,13 +1,24 @@
 systemName;route;banner;groupName;roots
 roymtn;RoyMtnRoy;;Royal Mountain - Royal;ny.roymtnroy
+roymtn;RoyMtnGlaWen;;Royal Mountain - Gladed Wench;ny.roymtnglawen
+roymtn;RoyMtnGlaWenConn;;Royal Mountain - Gladed Wench Connector;ny.roymtnglawen
 roymtn;RoyMtnWilWay;;Royal Mountain - Wilbury Way;ny.roymtnwilway
 roymtn;RoyMtnCha;;Royal Mountain - Challenge;ny.roymtncha
 roymtn;RoyMtnChaAcc;;Royal Mountain - Challenge Access;ny.roymtnchaacc
+roymtn;RoyMtnDuke;;Royal Mountain - Duke;ny.roymtnduke
+roymtn;RoyMtnDukeChaCon;;Royal Mountain - Duke/Challenge Connector;ny.roymtndukechaconn
 roymtn;RoyMtnDocsDrop;;Royal Mountain - Doc's Drop;ny.roymtndocsdrop
 roymtn;RoyMtnQue;;Royal Mountain - Queen;ny.roymtnque
 roymtn;RoyMtnBoaARou;;Royal Mountain - Board-A-Round;ny.roymtnboaarou
 roymtn;RoyMtnPri;;Royal Mountain - Prince;ny.roymtnpri
+roymtn;RoyMtnKniPriConn;;Royal Mountain - Knight/Prince Connector;ny.roymtnknipriconn
+roymtn;RoyMtnPriWoo;;Royal Mountain - Princess Woods;ny.roymtnpriwoo
+roymtn;RoyMtnPriWooSide;;Royal Mountain - Princess Woods Side Access;ny.roymtnpriwooside
+roymtn;RoyMtnMaiGla;;Royal Mountain - Maiden Glades;ny.roymtnmaigla
+roymtn;RoyMtnDamGla;;Royal Mountain - Damsel Glades;ny.roymtndamgla
+roymtn;RoyMtnMid;;Royal Mountain - Midnight;ny.roymtnmid
 roymtn;RoyMtnKni;;Royal Mountain - Knight;ny.roymtnkni
+roymtn;RoyMtnGlaGla;;Royal Mountain - Glasgow Glades;ny.roymtnglagla
 roymtn;RoyMtnLodRun;;Royal Mountain - Lodge Run;ny.roymtnlodrun
 roymtn;RoyMtnLiftAcc;;Royal Mountain - Lift Access;ny.roymtnliftacc
 roymtn;RoyMtnBunSlo;;Royal Mountain - Bunny Slope;ny.roymtnbunslo
