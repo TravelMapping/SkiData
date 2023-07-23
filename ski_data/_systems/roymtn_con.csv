@@ -1,7 +1,7 @@
 systemName;route;banner;groupName;roots
 roymtn;RoyMtnRoy;;Royal Mountain - Royal;ny.roymtnroy
 roymtn;RoyMtnGlaWen;;Royal Mountain - Gladed Wench;ny.roymtnglawen
-roymtn;RoyMtnGlaWenConn;;Royal Mountain - Gladed Wench Connector;ny.roymtnglawen
+roymtn;RoyMtnGlaWenMidExit;;Royal Mountain - Gladed Wench Mid Exit;ny.roymtngwme
 roymtn;RoyMtnWilWay;;Royal Mountain - Wilbury Way;ny.roymtnwilway
 roymtn;RoyMtnCha;;Royal Mountain - Challenge;ny.roymtncha
 roymtn;RoyMtnChaAcc;;Royal Mountain - Challenge Access;ny.roymtnchaacc
