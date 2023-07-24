@@ -5,9 +5,11 @@ roymtn;RoyMtnGWME;;Royal Mountain - Gladed Wench Mid Exit;ny.roymtngwme
 roymtn;RoyMtnWilWay;;Royal Mountain - Wilbury Way;ny.roymtnwilway
 roymtn;RoyMtnCha;;Royal Mountain - Challenge;ny.roymtncha
 roymtn;RoyMtnChaAcc;;Royal Mountain - Challenge Access;ny.roymtnchaacc
+roymtn;RoyMtnGlaJes;;Royal Mountain - Gladed Jester;ny.roymtnglajes
 roymtn;RoyMtnDuke;;Royal Mountain - Duke;ny.roymtnduke
 roymtn;RoyMtnDCConn;;Royal Mountain - Duke/Challenge Connector;ny.roymtndcconn
 roymtn;RoyMtnDocsDrop;;Royal Mountain - Doc's Drop;ny.roymtndocsdrop
+roymtn;RoyMtnTerPark;;Royal Mountain - Terrain Park;ny.roymtnterpark
 roymtn;RoyMtnQue;;Royal Mountain - Queen;ny.roymtnque
 roymtn;RoyMtnBoaARou;;Royal Mountain - Board-A-Round;ny.roymtnboaarou
 roymtn;RoyMtnPri;;Royal Mountain - Prince;ny.roymtnpri
@@ -23,6 +25,7 @@ roymtn;RoyMtnGlaGla;;Royal Mountain - Glasgow Glades;ny.roymtnglagla
 roymtn;RoyMtnJac;;Royal Mountain - Jacksland;ny.roymtnjac
 roymtn;RoyMtnLodRun;;Royal Mountain - Lodge Run;ny.roymtnlodrun
 roymtn;RoyMtnLiftAcc;;Royal Mountain - Lift Access;ny.roymtnliftacc
+roymtn;RoyMtnGromTPark;;Royal Mountain - Grom Terrain Park;ny.roymtngromterpark
 roymtn;RoyMtnBunSlo;;Royal Mountain - Bunny Slope;ny.roymtnbunslo
 roymtn;RoyMtnBunRunSlo;;Royal Mountain - Bunny Runner Slope;ny.roymtnbunrunslo
 roymtn;RoyMtnBunRun;;Royal Mountain - Bunny Runner;ny.roymtnbunrun
